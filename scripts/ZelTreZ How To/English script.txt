@@ -1,90 +1,89 @@
 ***Page 2***
-Title: ZelTreZ Features
-
--Lightweight and full node modes
--Multiple accounts allowed on a single device
--Same account can login on any device with ZelTreZ app
--Background can be changed to any picture or gif file
--Coins/tokens can be shown or hidden within the portfolio
--Portfolio displayed worth can be changed to 150+ different currencies
--Quick-exchange services are integrated for easy trading
--The login credentials are the backup key, no files to backup for lightweight wallets
--No login or private information is stored remotely for ultimate end-user security
--ZelTreZ automatically checks for updates and shows detailed release notes
+Title: Характеристики на ZelTreZ 
+-Режим "Олекотена" и "Пълноценна" свръзка 
+-Възможност за регистрация на няколко профила от едно устройство
+-Един и същ профил може да влиза от всяко устройство с приложението ZelTrez 
+-Подмяна на фона с каквато и да е картина или gif файл
+-Монетите/тоукъните могат да бъдат показани или скрити в портфолиото
+-Стойността на портфолиото може да бъде показана в +150 различни валути
+-Интегрирани са бързообменни услуги за лесно търгуване
+-Удостоверяващата информация за вход е резервно копие на ключа, без файлове на резервни копия за олекотените портфейли
+-Никаква лична информация или информация за вход не се съхранява на отдалечен сървър за максимална сигурност на крайния потребител
+-ZelTreZ проверява автоматично за нови версии и показва подробни пояснения за нововъведенията
 
 ***Page 3***
-Title: Download & Install ZelTreZ
+Title: Изтегляне и инсталиране на ZelTreZ
 
--Download the version for your Operating System
--Launch the downloaded file and follow install instructions
--Open ZelTreZ
+-Изтеглете версията за Вашата операционна система
+-Стартирайте изтегления файл и следвайте инсктрукциите за инсталация
+-Отворете ZelTreZ
 
 ***Page 4***
-Title: Create an account & log in
--If this is the first time using ZelTreZ, select “Create Account”
--Create a long and strong username and password nobody else will know
--Log into your account using your username and password
--Backup your login credentials on paper and keep private as you would other login information
+Title: Създаване на профил & вход
+-Ако това е първият път, в който използвате ZelTreZ, изберете “Създаване на профил”
+-Създайте достатъчно дълги и сигурни потребителско име и парола, които никой друг няма да знае
+-Влезте в профила си използвайки Вашето потребителско име и парола
+-Направете резервно копие на Вашата удостоверяващата информация за вход на хартиен носител и го пазете така, както пазите друга информация от подобен род
 
 ***Page 5***
-Title: ZelTreZ Layout
+Title: Оформление на ZelTreZ
 
--Settings - Background & Avatar selection, priv keys, etc.
--Portfolio - summary of wallets
--Exchange - Shapeshift access, future location of ZelDex
--Apps - Future interface with ZelDapps and Marketplace
--Help - Access ZelTreZ FAQ
--Portfolio Color Wheel
--Coins & Tokens Bar
--Add coin - Select which coins to display (remove coins in Settings)
--Log Out - Return to Login
--Quit - Close ZelTreZ
+-Настройки - Избор на фон и аватар, частни ключове, други.
+-Портфолио - Обобщение на портфейлите
+-Борса - Достъп до Shapeshift, бъдещо добавяне на ZelDex
+-Приложения - Бъдещ интерфейс с ZelDapps и възможност за търгуване
+-Помощ - Достъп ZelTreZ Често задавани въпроси
+-Портфолио под формата на цветно колело
+-Лента на монетите и тоукъните
+-Добавете монета - Изберете кои монети да се показват (премахнете монети от Настройки)
+-Изход - Върнете се на Вход
+-Напуснете - Затворете ZelTreZ
 
 ***Page 6***
-Title: Wallets Layout
+Title: Оформление на портфейла
 
--Send - Opens up window to send coin to an address
--Receive - Displays your current wallet address
--Contacts - You can save frequently-used addresses
--Full Node - Activates full node capability
--Current Wallet Worth
--Transaction History - Displays previous transactions. Click a transaction to view on block explorer
+-Изпращане - Отваря се прозорец за изпращане на монети до адрес на получател
+-Получаване - Показва текущия ви адрес на портфейла
+-Контакти - Може да запаметявате често използвани адреси
+-Full Node - Активира възможността за преминаване в режим "Пълноценна свръзка" 
+-Текущ баланс на портфейла
+-История на транзакциите - Показва предишни транзакции. Кликнете върху транзакция, за да я видите на блок експлоръра
 
 ***Page 7***
-Title: Full Node Warnings
+Title: Предупрежения за режим "Пълноценна свръзка"
 
--Full node wallet requires a complete copy of the coin blockchain and proving keys (if required)
--Blockchains can be large (BTC is >200GB) and can fill up your HDD quickly
--Downloading blockchains and proving keys can take a long time (hours+)
--ZelTreZ encrypts the wallet files for full node. The swing wallet will no longer function properly after launching Full Node in ZelTreZ (a backup is automatically created to revert back to swing wallet if necessary)
--Lightweight (default) mode is recommended for 99% of users. Those that require full node capability should know how to use full node wallets already
+-Портфейл, действащ като "Пълноценна свръзка" изисква цялостно копие на блокверигата на монетата и доказателствени ключове (ако са необходими)
+-Блокверигите могат да бъдат големи (Биткойн >200ГБ) и може бързо да запълни хард диска Ви.
+-Изтеглянето на блокверигата и доказателствените ключове могат да отнемат много време (Няколко часа+)
+-ZelTreZ криптира файловете от портфейлa за "Пълноценна свръзка". Първичния портфейл няма да функционира правилно след пускането на режим "Пълноценна свръзка" в ZelTreZ (резерврно копие се създава автоматично, за да се възстанови обратно Първичния портофейл ако е необходимо)
+-Олекотения (по подразбиране) режим е препоръчителен за 99% от потребителите. Тези, на които им е необхдоима "Пълноценна свръзка" трябва да знаят вече как да използват портфейлите като "Пълноценна свръзка"
 
 ***Page 8***
-Title: ShapeShift Layout
+Title: Оформление на ShapeShift
 
--Sell - Select the coin to exchange
--Buy - Select the coin to receive
--Enter the amounts to exchange
--Agree to the ShapeShift ToS and Zel disclaimer
--Select “Begin Exchange”
--Transaction will show up in History at the bottom
--Note: Coins must be activated in ZelTreZ and available on ShapeShift network to exchange
+-Продай - Изберете монета от борсата
+-Купи - Изберете монета за получаване
+-Въведете количеството в борсата
+-Съгласете се с Условията за услуги на Shapeshift и отказа на Zel от поемане на последваща отговорност
+-Изберете “Започване на обмена”
+-Транзакцията ще бъде показана в История в долната част на дисплея
+-Забележка: Монетите трябва да бъдат активни в ZelTreZ и на разположение в мрежата за размяна на ShapeShift
 
 ***Page 9***
-Title: Wallets Notes
+Title: Бележки към портфейлите
 
--ZelTreZ defaults to lightweight mode
--Full node is only needed for shielding (most users should use lightweight mode)
--Displayed currency can be changed in Settings; 150+ different world currencies available
--Contacts can be added and deleted as needed
--Auto calculated and user-selectable Tx fees (Normal is fine for most cases)
--Maximum button allows sending of all funds in an address
+-ZelTreZ е в олекотен режим по подразбиране
+-"Пълноценна свръзка" е неободхима само за защита на транзакциите (Повечето потребители трябва да използват олекотения режим)
+-Показаната валута може да бъде променяна от Настройки; 150+ различни световни валути са на разположение
+-Контактите могат да бъдат добавяни или изтривани при нужда
+-Автоматично калкулиране и възможност за избор от потребителя на такса за транзакция (Нормална такса е достатъчна за повечето случаи)
+-Максималният бутон позволява изпращане на всичките средства до един адрес
 
 ***Page 10***
-Title: Settings Notes
+Title: Бележки към Настройките
 
--Click top-middle white circle to change avatar photo
--Change portfolio display currency
--Select “Choose File” to change ZelTreZ background (photo or gif)
--Private key and other address info can be displayed
--Hide coins that are not in use
+-Натиснете горния кръг в средата, за да смените снимката на аватара
+-Сменете валутата на портфолиото, в която е показано
+-Изберете “Изберете Файл", за да смените фона на ZelTreZ (снимка или gif)
+-Частен ключ или друга информация за адреса могат да бъдат показани
+-Скрийте монети, които не се използват
